@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T10:31:28.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="L2nPHUrnkRogjA3rdIPa" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T10:40:07.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="GfwdeVLlO-VBbe7zVCze" version="21.6.2" type="github" pages="3">
   <diagram name="第 1 页" id="dWNNX0YYxQVS8ASQVdN2">
     <mxGraphModel dx="1225" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,7 +458,7 @@
         <mxCell id="21FmS9P4oKi1T_jT0wz4-36" value="阶段二" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="21FmS9P4oKi1T_jT0wz4-1">
           <mxGeometry x="194.00000000000006" y="312.25" width="46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="21FmS9P4oKi1T_jT0wz4-37" value="待激活素材ID池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="21FmS9P4oKi1T_jT0wz4-1">
+        <mxCell id="21FmS9P4oKi1T_jT0wz4-37" value="激活素材ID池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="21FmS9P4oKi1T_jT0wz4-1">
           <mxGeometry x="102.99999999999994" y="390.75" width="224.34" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="21FmS9P4oKi1T_jT0wz4-38" value="失败活素材ID池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="21FmS9P4oKi1T_jT0wz4-1">
