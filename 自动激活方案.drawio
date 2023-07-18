@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T02:48:16.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="5LTge4PGD3ekAWY9M_Fg" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T02:49:00.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Mxjfs5o0TF7Ab0SNvz16" version="21.6.2" type="github" pages="3">
   <diagram name="第 1 页" id="dWNNX0YYxQVS8ASQVdN2">
     <mxGraphModel dx="1225" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
         <mxCell id="vX1KmoIUZyzQyGBjtSiO-2" value="7日页面访问埋点数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="21FmS9P4oKi1T_jT0wz4-1" vertex="1">
           <mxGeometry x="385" y="402.75" width="170" height="29.25" as="geometry" />
         </mxCell>
-        <mxCell id="vX1KmoIUZyzQyGBjtSiO-3" value="峰、平、谷生成（PV、UV）" style="rounded=1;whiteSpace=wrap;html=1;" parent="21FmS9P4oKi1T_jT0wz4-1" vertex="1">
+        <mxCell id="vX1KmoIUZyzQyGBjtSiO-3" value="峰、平、谷及阀值&lt;br&gt;生成（PV、UV）" style="rounded=1;whiteSpace=wrap;html=1;" parent="21FmS9P4oKi1T_jT0wz4-1" vertex="1">
           <mxGeometry x="385" y="314.25" width="170" height="66.75" as="geometry" />
         </mxCell>
         <mxCell id="vX1KmoIUZyzQyGBjtSiO-4" value="默认阀值配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="21FmS9P4oKi1T_jT0wz4-1" vertex="1">
