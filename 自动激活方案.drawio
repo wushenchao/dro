@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T02:49:00.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Mxjfs5o0TF7Ab0SNvz16" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T02:54:35.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="9h79ExcQ3vQBtOHmyO3m" version="21.6.2" type="github" pages="3">
   <diagram name="第 1 页" id="dWNNX0YYxQVS8ASQVdN2">
-    <mxGraphModel dx="1225" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,8 +318,8 @@
             <mxPoint x="250" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RVPzKt9HRsUtb7GIQA8-33" value="获取布局数据和素材ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
-          <mxGeometry x="185" y="792" width="70" height="30" as="geometry" />
+        <mxCell id="6RVPzKt9HRsUtb7GIQA8-33" value="页面标识&lt;br&gt;获取布局&lt;br&gt;和内容数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
+          <mxGeometry x="185" y="780" width="70" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6RVPzKt9HRsUtb7GIQA8-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -333,11 +333,11 @@
             <mxPoint x="459" y="969.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RVPzKt9HRsUtb7GIQA8-39" value="绑定素材" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
+        <mxCell id="6RVPzKt9HRsUtb7GIQA8-39" value="绑定素材ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
           <mxGeometry x="186" y="922" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6RVPzKt9HRsUtb7GIQA8-40" value="激活素材" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
-          <mxGeometry x="454" y="935" width="70" height="30" as="geometry" />
+        <mxCell id="6RVPzKt9HRsUtb7GIQA8-40" value="激活素材ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
+          <mxGeometry x="455" y="935" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6RVPzKt9HRsUtb7GIQA8-41" value="页面标识&lt;br&gt;&amp;amp;素材ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
           <mxGeometry x="451" y="797" width="70" height="40" as="geometry" />
@@ -420,7 +420,7 @@
             <mxPoint x="647.1600000000001" y="952" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RVPzKt9HRsUtb7GIQA8-76" value="素材激活" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
+        <mxCell id="6RVPzKt9HRsUtb7GIQA8-76" value="素材激活池" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
           <mxGeometry x="580.5" y="787" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6RVPzKt9HRsUtb7GIQA8-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aXqrtSbkCw8PDT_6N5hR-1" vertex="1">
@@ -557,7 +557,7 @@
             <mxPoint x="327" y="338.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJxF72pdzNUlVKls2dJ8-0" value="定&lt;br&gt;时&lt;br&gt;任&lt;br&gt;务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="21FmS9P4oKi1T_jT0wz4-1">
+        <mxCell id="fJxF72pdzNUlVKls2dJ8-0" value="定&lt;br&gt;时&lt;br&gt;任&lt;br&gt;务" style="rounded=1;whiteSpace=wrap;html=1;" parent="21FmS9P4oKi1T_jT0wz4-1" vertex="1">
           <mxGeometry x="570" y="262" width="30" height="171" as="geometry" />
         </mxCell>
       </root>
