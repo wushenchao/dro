@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T08:34:34.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="KzYIGEN3UHFdShlXwTJo" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T08:43:48.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="B5DLIsqGPKdmm9lSGjC-" version="24.2.5" type="github">
   <diagram name="第 1 页" id="cUPQilYxBffBbkeb9Y6o">
     <mxGraphModel dx="1242" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="lE1Qpb3CKNX3zS15iR8Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lE1Qpb3CKNX3zS15iR8Y-12" target="lE1Qpb3CKNX3zS15iR8Y-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-12" value="响应&lt;span style=&quot;text-align: start; font-size: 10.5pt; line-height: 16.799999px; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; line-height: 16.799999px;&quot; lang=&quot;EN-US&quot;&gt;touchesMoved&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-12" value="响应&lt;span style=&quot;text-align: start; font-size: 10.5pt; line-height: 16.799999px; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; line-height: 16.799999px;&quot; lang=&quot;EN-US&quot;&gt;toucheEnded&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="564.5" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lE1Qpb3CKNX3zS15iR8Y-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -144,6 +144,12 @@
             <mxPoint x="300" y="603" as="sourcePoint" />
             <mxPoint x="300" y="563" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-55" value="&lt;div&gt;从UITcouch对象中&lt;/div&gt;1、获取事件响应时间戳T1&lt;div&gt;2、获取触摸半径R1&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="285" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-56" value="&lt;div&gt;从UITcouch对象中&lt;/div&gt;1、获取事件响应时间戳T1&lt;div&gt;2、获取触摸半径R1&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
