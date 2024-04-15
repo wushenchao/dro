@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T08:43:48.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="B5DLIsqGPKdmm9lSGjC-" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T08:46:32.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="EvAVja1gByEIdmlpjBYk" version="24.2.5" type="github">
   <diagram name="第 1 页" id="cUPQilYxBffBbkeb9Y6o">
     <mxGraphModel dx="1242" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,11 +145,11 @@
             <mxPoint x="300" y="563" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-55" value="&lt;div&gt;从UITcouch对象中&lt;/div&gt;1、获取事件响应时间戳T1&lt;div&gt;2、获取触摸半径R1&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="285" width="180" height="70" as="geometry" />
+        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-55" value="&lt;div&gt;获取touchBegan中UITcouch对象&lt;/div&gt;1、获取事件响应时间戳T1&lt;div&gt;2、获取触摸半径R1&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="285" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-56" value="&lt;div&gt;从UITcouch对象中&lt;/div&gt;1、获取事件响应时间戳T1&lt;div&gt;2、获取触摸半径R1&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="600" width="180" height="70" as="geometry" />
+        <mxCell id="lE1Qpb3CKNX3zS15iR8Y-56" value="&lt;div&gt;获取touchEnded中UITcouch对象中&lt;/div&gt;1、获取事件响应时间戳T3&lt;div&gt;2、获取触摸半径R2&lt;/div&gt;&lt;div&gt;3、获取触摸视图区域位置S2&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="585" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
