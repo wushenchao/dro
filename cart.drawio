@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-35" value="循环遍历是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="190" width="160" height="47" as="geometry" />
+          <mxGeometry x="300" y="191" width="160" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-46" target="FPhpKPtuI8EvFTrIbxDG-50">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-65" value="显示到页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="760" width="121" height="43" as="geometry" />
+          <mxGeometry x="320" y="764" width="121" height="43" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-70" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="835" width="119.5" height="38.5" as="geometry" />
@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-78" value="创建促销商品队列池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641.25" y="351" width="120" height="40" as="geometry" />
+          <mxGeometry x="641.25" y="349" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-86" target="FPhpKPtuI8EvFTrIbxDG-52">
           <mxGeometry relative="1" as="geometry" />
