@@ -206,19 +206,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-52" value="是否是促销商品？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="497.5" width="160" height="47" as="geometry" />
+          <mxGeometry x="300" y="570" width="160" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-54" target="FPhpKPtuI8EvFTrIbxDG-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-54" value="获取促销商品队列保存数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="580.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-56" target="FPhpKPtuI8EvFTrIbxDG-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-56" value="&lt;div&gt;添加到计时器队列&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="658" width="121" height="43" as="geometry" />
+          <mxGeometry x="320" y="700" width="121" height="43" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-57" target="IqsxcXfb04PyP9Ou5wMe-25">
           <mxGeometry relative="1" as="geometry" />
@@ -226,7 +226,7 @@
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-57" value="创建计时器队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641.25" y="535.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FPhpKPtuI8EvFTrIbxDG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-60" target="FPhpKPtuI8EvFTrIbxDG-52">
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-60" target="FPhpKPtuI8EvFTrIbxDG-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-60" value="清空计时器队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -236,10 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-65" value="显示到页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="744.5" width="121" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="FPhpKPtuI8EvFTrIbxDG-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="545.5" width="40" height="30" as="geometry" />
+          <mxGeometry x="320" y="760" width="121" height="43" as="geometry" />
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-70" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="835" width="119.5" height="38.5" as="geometry" />
@@ -256,6 +253,25 @@
         </mxCell>
         <mxCell id="FPhpKPtuI8EvFTrIbxDG-78" value="创建促销商品队列池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641.25" y="351" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-86" target="FPhpKPtuI8EvFTrIbxDG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-90" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPhpKPtuI8EvFTrIbxDG-89">
+          <mxGeometry x="0.0145" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPhpKPtuI8EvFTrIbxDG-86" target="FPhpKPtuI8EvFTrIbxDG-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-92" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FPhpKPtuI8EvFTrIbxDG-91">
+          <mxGeometry x="-0.6922" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FPhpKPtuI8EvFTrIbxDG-86" value="循环遍历当前页面数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="488.5" width="160" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
