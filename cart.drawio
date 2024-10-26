@@ -66,7 +66,7 @@
         <mxCell id="IqsxcXfb04PyP9Ou5wMe-15" value="是否存在促销商品队列？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="299" y="369" width="160" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IqsxcXfb04PyP9Ou5wMe-25" value="结束循环遍历" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IqsxcXfb04PyP9Ou5wMe-25" value="添加商品到促销商品队列" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="585" width="121" height="43" as="geometry" />
         </mxCell>
         <mxCell id="IqsxcXfb04PyP9Ou5wMe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IqsxcXfb04PyP9Ou5wMe-26" target="IqsxcXfb04PyP9Ou5wMe-25" edge="1">
